@@ -1,0 +1,8 @@
+SafeAreaView => just wrap in header
+initialRouteName: state will be saved in initial screen, through every stacks
+
+dipatch, setState => async
+
+the app not work with better performance:
+ChoiceScreen may not be fast: 
++ update state in logic and hook
